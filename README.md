@@ -1,5 +1,5 @@
-          ### Hi there 👋 I'm Ashish Tripathi
-          ##
+<h1 align="center">Hi 👋, I'm Ashish Tripathi</h1>
+<h3 align="center">Blockchain. Cogent. Photographer.</h3>
 
 <!--
 **nichonien/nichonien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
