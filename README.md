@@ -8,7 +8,7 @@
 - 💬 Ask me about **Decentralised Identity, On-chain and Off-chain Verifiable Credentials, Smart Contracts, Public & Private Blockchain ecosystem**
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=nichonien&show_icons=true&theme=dark&locale=en" alt="nichonien" align=center/></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=nichonien&theme=tokyonight"/></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=nichonien&theme=dark"/></p>
 
 ## Contact me:
 <div>
