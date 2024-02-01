@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nichonien" alt="nichonien" /> </p>
 
-- 🔭 I’m currently working at [Energy Web](https://www.energyweb.org)
+- 🔭 I’m a Blockchain Engineer, who loves to design solution and help people transition to Blockchain backed use cases.
 
-- 💬 Ask me about **Blockchain, SSI, Public & Private Blockchain**
+- 💬 Ask me about **Decentralised Identity, On-chain and Off-chain Verifiable Credentials, Smart Contracts, Public & Private Blockchain ecosystem**
 
 - 📫 How to reach me **iashishtripathi8@gmail.com**
