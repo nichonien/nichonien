@@ -7,10 +7,8 @@
 
 - 💬 Ask me about **Decentralised Identity, On-chain and Off-chain Verifiable Credentials, Smart Contracts, Public & Private Blockchain ecosystem**
 
-<div align="center" style="margin-bottom:200px">
- <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=nichonien&theme=radical&show_icons=true" />
- <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nichonien&layout=compact&theme=radical" />
-</div>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nichonien&show_icons=true&theme=dark&locale=en&layout=compact" alt="nichonien" align=center/></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=nichonien&show_icons=true&theme=dark&locale=en" alt="nichonien" align=center/></p>
 
 - 📫 How to reach me
   -- **iashishtripathi8@gmail.com**
